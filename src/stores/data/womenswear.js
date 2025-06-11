@@ -1,0 +1,85 @@
+const womensWear = [
+    {
+        id: 11,
+        name: "Women's Floral Dress",
+        price: 1299,
+        image: "assets/womenswear/1.jpg",
+        description: "Beautiful summer floral dress.",
+        category: "Women's Wear",
+    },
+    {
+        id: 12,
+        name: "Women's Denim Jacket",
+        price: 1499,
+        image: "assets/womenswear/2.jpg",
+        description: "Classic denim jacket for outings.",
+        category: "Women's Wear",
+    },
+    {
+        id: 13,
+        name: "Women's Kurti Set",
+        price: 1099,
+        image: "assets/womenswear/3.jpg",
+        description: "Elegant traditional wear.",
+        category: "Women's Wear",
+    },
+    {
+        id: 14,
+        name: "Women's Palazzo Pants",
+        price: 699,
+        image: "assets/womenswear/4.jpg",
+        description: "Comfy wide-leg pants.",
+        category: "Women's Wear",
+    },
+    {
+        id: 15,
+        name: "Women's Sleeveless Top",
+        price: 499,
+        image: "assets/womenswear/5.jpg",
+        description: "Trendy top for summer.",
+        category: "Women's Wear",
+    },
+    {
+        id: 16,
+        name: "Women's Maxi Dress",
+        price: 1399,
+        image: "assets/womenswear/6.jpg",
+        description: "Elegant ankle-length dress.",
+        category: "Women's Wear",
+    },
+    {
+        id: 17,
+        name: "Women's Leggings",
+        price: 399,
+        image: "assets/womenswear/7.jpg",
+        description: "Stretchable leggings.",
+        category: "Women's Wear",
+    },
+    {
+        id: 18,
+        name: "Women's Crop Top",
+        price: 599,
+        image: "assets/womenswear/8.jpg",
+        description: "Trendy and stylish crop top.",
+        category: "Women's Wear",
+    },
+    {
+        id: 19,
+        name: "Women's Shrug",
+        price: 699,
+        image: "assets/womenswear/9.jpg",
+        description: "Long front-open shrug.",
+        category: "Women's Wear",
+    },
+    {
+        id: 20,
+        name: "Women's Skirt",
+        price: 899,
+        image: "assets/womenswear/10.jpg",
+        description: "Flowy pleated skirt.",
+        category: "Women's Wear",
+    }
+
+];
+
+export default womensWear;
